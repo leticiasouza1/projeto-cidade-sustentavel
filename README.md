@@ -8,6 +8,9 @@ Excesso de lixo : Descarte incorreto de resíduos nas ruas, falta de reciclagem 
 Cidade Inteligente de Reciclagem: Criação de um ambiente urbano com lixeiras automatizadas de coleta seletiva, sistemas de recompensa por reciclagem e usinas locais de reaproveitamento de materiais.
 
 **alunas do projeto**:
+
 leticia de sousa
+
 ketelyn tavares
+
 ana beatriz
